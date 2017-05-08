@@ -1,0 +1,9 @@
+{
+    "mqtt": {
+      "host": "mqtt.labict.be",
+      "port": 1883
+    },
+    "dweetio": {
+      "name": "toomanypeeps"
+    }
+}

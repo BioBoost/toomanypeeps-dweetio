@@ -1,0 +1,16 @@
+{
+  "name": "dweet.io reporter",
+  "version": "1.0.0",
+  "description": "Dweet.io reporter service for TooManyPeeps using MQTT",
+  "main": "dweet.js",
+  "scripts": {
+    "start": "node dweet.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nico De Witte <nico.dewitte@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^2.5.0",
+    "node-dweetio": "0.0.11"
+  }
+}
